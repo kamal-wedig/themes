@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a16899aa-c491-4805-a8ce-bb4a32cc6b0f" name="SFTP" url="http://sftp.appzio.com">
+        <fileTransfer host="sftp.appzio.com" port="21" privateKey="D:\Kamal\Projects\Earnster\keys\kamal_key" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="30000" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
